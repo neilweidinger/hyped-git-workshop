@@ -1,1 +1,1 @@
-echo kittens
+echo kittens are super cute
